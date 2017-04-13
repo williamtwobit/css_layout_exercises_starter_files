@@ -1,0 +1,36 @@
+main {
+	padding: 30px;
+	font-size: 0;
+	width: 800px;
+	margin-right: auto; margin-left: auto;
+}
+.lineone {
+	display: inline-block;
+	border: solid black 1px;
+	height:200px;
+}
+.linetwo {
+	display: inline-block;
+	border:solid black 1px;
+	height:300px;
+}
+.dkgreen {
+	background-color:green;
+	width:50%;
+}
+.blue {
+	background-color:blue;
+	width: 50%;
+}
+.gray {
+	background-color:gray;
+	width:33.33%;
+}
+.black {
+	background-color:black;
+	width:33.33%;
+}
+.orange {
+	background-color:lightsalmon;
+	width: 33.33%;
+}

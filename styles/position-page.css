@@ -46,6 +46,11 @@ main {
 	height:300px;
 	border:10px green dotted;
 	position: relative;
+	text-align: center;
+	color:red;
+	font-size: 30pt;
+	font-weight: bold;
+	padding-top: 100px;
 }
 
 .greenbox > img {
@@ -64,3 +69,9 @@ main {
 	left:450px;
 	top:150px;
 }
+
+body {
+	background-image: url("../images/outerspace_landscape.jpeg");
+	background-size:cover;
+}
+
